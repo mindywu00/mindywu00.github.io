@@ -4,6 +4,7 @@
   list-style: none;
   opacity: 0.75;
   display: inline;
+  margin: 10px;
 }
 
 .name {
