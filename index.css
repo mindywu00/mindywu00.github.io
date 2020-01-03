@@ -5,6 +5,7 @@
   opacity: 0.75;
   display: inline;
   padding-left: 30px;
+  padding-top: 30px;
 }
 
 .name {
@@ -20,7 +21,7 @@
 }
 
 .container {
-  background: url("_DSC4825.JPG");
+  background-image: url("woods.jpg");
   background-position: center;
   background-size: cover;
   opacity: 0.5;
