@@ -27,6 +27,7 @@
   background-image: url("woods.jpg");
   background-position: center;
   background-size: cover;
+  height: 100%;
   opacity: 0.75;
   font-family: 'Raleway';
   position: absolute;
