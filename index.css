@@ -1,6 +1,7 @@
 .topmenu li{
   color: gray;
   font-size: 10px;
+  list-style: none;
 }
 
 .name {
