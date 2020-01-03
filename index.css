@@ -10,6 +10,7 @@
   color: #454545;
   font-size: 80px;
   text-align: center;
+  border: 3px double black;
 }
 
 .items {
