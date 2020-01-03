@@ -1,0 +1,27 @@
+.topmenu li{
+  color: #7d7d7d;
+  font-size: 20px;
+  list-style: none;
+  text-align: right;
+  opacity: 0.75;
+}
+
+.name {
+  color: #545454;
+  font-size: 80px;
+  text-align: center;
+}
+
+.items {
+  color: #7d7d7d;
+  font-size: 30px;
+}
+
+.georgia {
+  font-family: Georgia;
+}
+
+.container {
+  background-image: url("_DSC4825.JPG");
+  opacity: 0.5;
+}
