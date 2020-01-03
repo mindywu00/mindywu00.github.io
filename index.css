@@ -10,9 +10,7 @@
 .name {
   color: #454545;
   font-size: 80px;
-  width: 300px;
-  border: double 3px black;
-  margin: 0 auto;
+  text-align: center;
 }
 
 .items {
@@ -36,4 +34,5 @@
   text-align: right;
   padding-right: 20px;
   opacity: 0.5;
+  font-family: 'Raleway';
 }
