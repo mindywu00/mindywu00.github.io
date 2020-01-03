@@ -29,6 +29,7 @@
   background-size: cover;
   opacity: 0.75;
   font-family: 'Raleway';
+  position: absolute;
 }
 
 .foot {
