@@ -4,6 +4,7 @@
   list-style: none;
   text-align: right;
   opacity: 0.75;
+  font-family: Raleway;
 }
 
 .name {
@@ -17,15 +18,12 @@
   font-size: 30px;
 }
 
-.georgia {
-  font-family: Georgia;
-}
-
 .container {
   background-image: url("_DSC4825.JPG");
   background-position: center;
   background-size: cover;
   opacity: 0.5;
+  font-family: Raleway;
 }
 
 .foot {
