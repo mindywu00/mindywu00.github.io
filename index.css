@@ -1,5 +1,5 @@
 .topmenu li{
-  color: #7d7d7d;
+  color: #707070;
   font-size: 20px;
   list-style: none;
   text-align: right;
@@ -7,13 +7,13 @@
 }
 
 .name {
-  color: #545454;
+  color: #454545;
   font-size: 80px;
   text-align: center;
 }
 
 .items {
-  color: #7d7d7d;
+  color: #707070;
   font-size: 30px;
 }
 
@@ -23,5 +23,13 @@
 
 .container {
   background-image: url("_DSC4825.JPG");
+  background-position: center;
+  background-size: cover;
   opacity: 0.5;
+}
+
+.foot {
+  color: #707070
+  font-size: 10px;
+  text-align: right;
 }
