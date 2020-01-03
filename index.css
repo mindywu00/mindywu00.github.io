@@ -4,7 +4,6 @@
   list-style: none;
   text-align: right;
   opacity: 0.75;
-  font-family: Raleway;
 }
 
 .name {
@@ -24,7 +23,7 @@
   background-position: center;
   background-size: cover;
   opacity: 0.5;
-  font-family: Raleway;
+  font-family: 'Raleway';
 }
 
 .foot {
