@@ -11,6 +11,8 @@
   color: #454545;
   font-size: 80px;
   text-align: center;
+  width: 100px;
+  border: double 3px black;
 }
 
 .items {
