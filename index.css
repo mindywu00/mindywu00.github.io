@@ -22,7 +22,7 @@
 }
 
 .container {
-  background-image: url("woods.jpg");
+  background: url("woods.jpg");
   background-position: center;
   background-size: cover;
   opacity: 0.85;
