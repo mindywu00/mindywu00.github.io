@@ -7,61 +7,36 @@
   padding: 20px;
 	line-height: 3;
 }
+.menu li:hover{
+	text-decoration: underline;
+}
 
 
 .name {
   color: #454545;
   font-size: 80px;
   letter-spacing: 5px;
-	width: 500px;
-	line-height: 70px;
 	text-align: center;
-	padding-left: 288px;
-	padding-top: 200px;
+	padding-top: 100px;
+	height: 50px;
+}
+
+.tab li{
+  color: #707070;
+  font-size: 20px;
+	list-style: none;
+	display: inline;
+	padding: 20px;
+	font-weight: bold;
 }
 
 .tab {
-  color: #707070;
-  font-size: 30px;
+	text-align: center;
 }
 
-.projects {
-	position: absolute;
-	top: 200px;
-	left: 150px;
+.tab li:hover{
+	text-decoration: underline;
 }
-
-.code {
-	position: absolute;
-	top: 150px;
-	left: 500px;
-}
-
-.photo {
-	position: absolute;
-	top: 170px;
-	right: 200px;
-}
-
-.video {
-	position: absolute;
-	top: 300px;
-	left: 200px;
-}
-
-.design {
-	position: absolute;
-	top: 350px;
-	left: 400px;
-}
-
-.music {
-	position: absolute;
-	top: 330px;
-	left: 700px;
-}
-
-
 
 .container {
   background: url("images/woods.jpg");
@@ -78,6 +53,10 @@
 	padding: 20px;
 }
 
+.icon:hover{
+	opacity: 0.75;
+}
+
 footer {
   color: white;
   font-size: 15px;
@@ -85,6 +64,7 @@ footer {
   padding-right: 20px;
 	background-color: #A5A5A5;
   position: absolute;
-  bottom: 0;
+  top: 680px;
+	bottom: 0;
   width: 100%;
 }
