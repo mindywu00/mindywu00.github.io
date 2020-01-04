@@ -6,6 +6,7 @@
   display: inline;
   padding: 20px;
 	line-height: 3;
+	font-weight: bold;
 }
 .menu li:hover{
 	text-decoration: underline;
@@ -23,7 +24,7 @@
 
 .tab li{
   color: #707070;
-  font-size: 20px;
+  font-size: 23px;
 	list-style: none;
 	display: inline;
 	padding: 20px;
@@ -40,11 +41,9 @@
 
 .container {
   background: url("images/woods.jpg");
-  background-size: cover;
+	background-size: 100%;
   opacity: 0.80;
   font-family: 'Raleway';
-	width: 100%;
-	height: 705px;
 }
 
 .icon {
