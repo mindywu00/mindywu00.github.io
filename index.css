@@ -1,4 +1,4 @@
-.topmenu li{
+.menu li{
   color: #707070;
   font-size: 20px;
   list-style: none;
@@ -6,21 +6,18 @@
   display: inline;
   padding-left: 30px;
   padding-top: 30px;
-  opacity: 1;
 }
 
 .name {
   color: #454545;
   font-size: 80px;
   text-align: center;
-  opacity: 1;
 }
 
-.items {
+.tab {
   color: #707070;
   font-size: 30px;
   text-align: center;
-  opacity: 1;
 }
 
 .container {
@@ -36,5 +33,4 @@
   font-size: 10px;
   text-align: right;
   padding-right: 20px;
-  opacity: 1;
 }
