@@ -1,5 +1,4 @@
 .menu li{
-  color: #707070;
   font-size: 20px;
   list-style: none;
   opacity: 0.75;
@@ -8,10 +7,19 @@
 	line-height: 3;
 	font-weight: bold;
 }
-.menu li:hover{
-	text-decoration: underline;
+
+.menu a:link{
+	color: #707070;
+	text-decoration: none;
 }
 
+.menu a:visited{
+	color: #707070;
+}
+
+.menu a:hover{
+	text-decoration: underline;
+}
 
 .name {
   color: #454545;
@@ -23,7 +31,6 @@
 }
 
 .tab li{
-  color: white;
   font-size: 23px;
 	list-style: none;
 	display: inline;
@@ -35,9 +42,21 @@
 	text-align: center;
 }
 
-.tab li:hover{
+.tab a:link{
+	color:white;
+	text-decoration: none;
+}
+
+.tab a:visited{
+	color:white;
+	text-decoration: none;
+}
+
+.tab a:hover{
+	color:white;
 	text-decoration: underline;
 }
+
 
 .container {
   background: url("images/vsco5d5ee3afc2030.jpg");
