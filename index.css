@@ -23,7 +23,7 @@
 }
 
 .tab li{
-  color: #707070;
+  color: white;
   font-size: 23px;
 	list-style: none;
 	display: inline;
@@ -39,16 +39,12 @@
 	text-decoration: underline;
 }
 
-section{
-	padding-bottom: 300px;
-}
-
 .container {
-  background: url("images/woods.jpg");
+  background: url("images/vsco5d5ee3afc2030.jpg");
 	background-size: cover;
   opacity: 0.80;
   font-family: 'Raleway';
-	height: 
+	height: 670px;
 }
 
 .icon {
