@@ -39,11 +39,16 @@
 	text-decoration: underline;
 }
 
+section{
+	padding-bottom: 300px;
+}
+
 .container {
   background: url("images/woods.jpg");
-	background-size: 100%;
+	background-size: cover;
   opacity: 0.80;
   font-family: 'Raleway';
+	height: 
 }
 
 .icon {
